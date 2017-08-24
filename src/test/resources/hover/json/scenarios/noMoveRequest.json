@@ -1,0 +1,8 @@
+{
+  "roomSize" : [15, 15],
+  "coords" : [11, 12],
+  "patches" : [
+    [1, 10]
+  ],
+  "instructions" : ""
+}
