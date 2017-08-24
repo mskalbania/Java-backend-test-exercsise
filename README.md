@@ -1,2 +1,1 @@
-# Java-backend-test-exercsise
-My solution to java backend test exercsise
+My solution to https://github.com/lampkicking/java-backend-test
